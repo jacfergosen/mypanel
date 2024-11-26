@@ -5,7 +5,6 @@ js-sha256/src/sha256.js:
    * [js-sha256]{@link https://github.com/emn178/js-sha256}
    *
    * @version 0.11.1
-   * @copyright Chen, Yi-Cyuan 2014-2024
    * @license MIT
    *)
 */
